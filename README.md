@@ -88,7 +88,7 @@ Copy and repeat for each project you want to feature.
 ### 🔗 [Project Name](https://github.com/PauloMateusSousa/YOUR-REPO-NAME)
 > One sentence explaining what the project does and what problem it solves.
 
-**Tech stack:** Node.js · Express · MySQL · React
+**Tech stack:** Node.js · Express · MySQL
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PauloMateusSousa/YOUR-REPO-NAME)
 [![Demo](https://img.shields.io/badge/Live%20Demo-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-DEMO-LINK.vercel.app)
@@ -102,8 +102,8 @@ Copy and repeat for each project you want to feature.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PauloMateusSousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Paulo's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMateusSousa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PauloMateusSousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Paulo's GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloMateusSousa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -112,6 +112,19 @@ Copy and repeat for each project you want to feature.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloMateusSousa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+<!--
+=======================================================
+BACKUP: Se o link acima (github-readme-stats-sigma-five.vercel.app) cair,
+troque o domínio pelo original abaixo ou por outra instância pública:
+
+Original:    https://github-readme-stats.vercel.app
+Alternativa: https://github-readme-stats-sigma-five.vercel.app
+Outra opção: https://github-readme-stats-eight-pi.vercel.app
+
+Basta substituir o domínio mantendo o resto da URL (parâmetros) igual.
+=======================================================
+-->
 
 ---
 
